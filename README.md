@@ -3,9 +3,9 @@
 
 This tracker was created because of plans of the official tracker going down.
 
-rfgt - server
-rfgt2txt - client for extracting server list (should work with official tracker)
-rfgtreload - sends reload signal to server to re-read list of static servers
+- rfgt - server
+- rfgt2txt - client for extracting server list (should work with official tracker)
+- rfgtreload - sends reload signal to server to re-read list of static servers
 
 
 Credits
