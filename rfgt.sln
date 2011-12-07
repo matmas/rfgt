@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rfgt", "rfgt\rfgt.csproj", "{E990DAA1-C33A-43D8-8D43-DA2F50B77D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rfgt2txt", "rfgt2txt\rfgt2txt.csproj", "{E871A777-CF24-4296-8937-5651010F5BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rfgtreload", "rfgtreload\rfgtreload.csproj", "{558FB9DC-0D80-4D6B-85AB-6FEAA8009952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E990DAA1-C33A-43D8-8D43-DA2F50B77D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E990DAA1-C33A-43D8-8D43-DA2F50B77D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E990DAA1-C33A-43D8-8D43-DA2F50B77D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E990DAA1-C33A-43D8-8D43-DA2F50B77D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E871A777-CF24-4296-8937-5651010F5BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E871A777-CF24-4296-8937-5651010F5BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E871A777-CF24-4296-8937-5651010F5BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E871A777-CF24-4296-8937-5651010F5BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{558FB9DC-0D80-4D6B-85AB-6FEAA8009952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558FB9DC-0D80-4D6B-85AB-6FEAA8009952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558FB9DC-0D80-4D6B-85AB-6FEAA8009952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558FB9DC-0D80-4D6B-85AB-6FEAA8009952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
