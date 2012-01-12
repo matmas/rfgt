@@ -7,6 +7,7 @@ This tracker was created because of plans of the official tracker going down.
 - rfgt2txt - client for extracting server list (should work with official tracker)
 - rfgtreload - sends reload signal to server to re-read list of static servers
 
+License: [GPLv3](http://www.gnu.org/licenses/gpl.html)
 
 Credits
 -------
