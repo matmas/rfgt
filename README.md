@@ -1,6 +1,7 @@
 [Red Faction](http://en.wikipedia.org/wiki/Red_Faction) Game Tracker
 ========================
 
+An alternative game tracker server, compatible with <a href="http://en.wikipedia.org/wiki/Red_Faction">Red Faction</a> binary protocol.
 This tracker was created because of plans of the official tracker going down.
 
 - rfgt - server
